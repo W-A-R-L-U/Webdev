@@ -93,3 +93,9 @@ Line2
 Line1
 Line2</pre>
 
+### HTML style attribute 
+
+```
+<tagname style="property:value;">
+```
+
